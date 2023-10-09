@@ -8,5 +8,5 @@ The datas are displayed on a webserver with live charts.
 ![image](https://github.com/CallMeC/Birdhouse/assets/47334555/f7a75fc2-84b9-4bde-9862-91b0f0d99642)
 Prototype of the birdhouse
 
-![image](https://github.com/CallMeC/Birdhouse/assets/47334555/952817e5-ec15-4d38-bd4d-e258b77626c8)
+![image](https://github.com/CallMeC/Birdhouse/assets/47334555/bc7ce2c3-403f-4e13-bee5-43abd4e5309a)
 Data visualisation example
